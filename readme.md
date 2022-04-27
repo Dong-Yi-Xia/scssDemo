@@ -13,3 +13,6 @@ update the setting in `setting.json`
 ],
 "liveSassCompile.settings.generateMap": false,
 ```
+
+
+https://sass-lang.com/documentation/syntax
